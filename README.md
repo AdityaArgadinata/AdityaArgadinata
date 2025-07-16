@@ -11,4 +11,5 @@ JSON with Comments   1 min           ░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![📊 Weekly development breakdown](./waka-box.svg)
-<img src="https://raw.githubusercontent.com/AdityaArgadinata/AdityaArgadinata/output/waka-box.svg" />
+<img src="https://raw.githubusercontent.com/AdityaArgadinata/AdityaArgadinata/main/waka-box.svg" />
+
