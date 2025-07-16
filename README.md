@@ -76,10 +76,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/AdityaArgadinata/AdityaArgadinata/main/assets/bar_graph.png)
-
 
  Last Updated on 16/07/2025 08:00:22 UTC
 <!--END_SECTION:waka-->
