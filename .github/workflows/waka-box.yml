@@ -1,0 +1,15 @@
+name: Update wakatime-box
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # update setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
