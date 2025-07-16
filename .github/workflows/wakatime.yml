@@ -33,5 +33,6 @@ jobs:
           SHOW_SHORT_INFO: "true"
           SHOW_TOTAL_CODE_TIME: "true"
           SHOW_LINES_OF_CODE: "true"
+          SHOW_LOC_CHART: "False"
           COMMIT_MESSAGE: "✨ Update wakatime stats"
           LOCALE: "en"
