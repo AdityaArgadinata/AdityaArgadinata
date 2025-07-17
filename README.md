@@ -1,5 +1,6 @@
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,laravel,php,nextjs,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,laravel,nextjs,react,neovim,git&perline=5)](https://skillicons.dev)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%206%20mins-blue)
 
